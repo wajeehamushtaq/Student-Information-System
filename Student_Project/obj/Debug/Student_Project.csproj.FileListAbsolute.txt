@@ -1,0 +1,85 @@
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.csprojAssemblyReference.cache
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.About.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.Login.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.Properties.Resources.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.csproj.GenerateResource.cache
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\bin\Debug\Student_Project.exe.config
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\bin\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\bin\Debug\Student_Project.pdb
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.pdb
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.AdminDashboard.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.AddStudentForm.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.StudentListForm.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.UpdateDelStd.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.Statics.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.PrintStdForm.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.AddCourse.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.RemoveCourse.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.UpdateCourse.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.viewAllCourses.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.StudentDashboard.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.SignUpForm.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.AddScore.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.EditScore.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.viewScore.resources
+C:\Users\Umair\Downloads\4 semester\databse\Student_Project\Student_Project\obj\Debug\Student_Project.CourseStats.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\bin\Debug\Student_Project.exe.config
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\bin\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\bin\Debug\Student_Project.pdb
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.csprojAssemblyReference.cache
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.About.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.AddCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.AddScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.AddStudentForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.AdminDashboard.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.CourseStats.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.EditScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.Login.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.PrintStdForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.Properties.Resources.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.RemoveCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.SignUpForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.Statics.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.StudentDashboard.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.StudentListForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.UpdateCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.UpdateDelStd.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.viewAllCourses.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.viewScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.csproj.GenerateResource.cache
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.pdb
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.Register.resources
+C:\Users\Umair\Downloads\4 semester\database\Student_Project\Student_Project\obj\Debug\Student_Project.Student_Score_Form.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\bin\Debug\Student_Project.exe.config
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\bin\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\bin\Debug\Student_Project.pdb
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.csprojAssemblyReference.cache
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.About.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.AddCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.AddScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.AddStudentForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.AdminDashboard.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.CourseStats.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.EditScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.Login.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.PrintStdForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.Properties.Resources.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.Register.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.RemoveCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.SignUpForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.Statics.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.StudentDashboard.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.StudentListForm.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.Student_Score_Form.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.UpdateCourse.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.UpdateDelStd.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.viewAllCourses.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.viewScore.resources
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.csproj.GenerateResource.cache
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.exe
+C:\Users\Umair\Downloads\4 semester\database\Final Project to display\Student_Project\obj\Debug\Student_Project.pdb
